@@ -1,1 +1,1 @@
-to change the hourglass size use "node <filename> -n=<size:int>"
+to change the hourglass size use "node `filename` -n=`size:int`"
